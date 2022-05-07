@@ -8,7 +8,7 @@ read varname
 for i in $varname
 do
 wc=`grep -ori $i ./selectedText/* | wc -l`
-echo "$i $wc"  >> ./result
+echo "$i $wc"  >> ./result.txt
 done
 
 cat ./result | sort -k 2 -nr
