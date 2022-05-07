@@ -1,4 +1,4 @@
-# MedibankCodeTest
+# MBTest
 
 + I will explain my thought process of this test step by step here:
   - After scanning through the question and the sample answer, I have noted down several key    points of this question.
